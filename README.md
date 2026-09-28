@@ -1,13 +1,13 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻 Linguagens: Java and C++</br>
+👩🏻‍💻 Linguagens: C++</br>
 
 🧠 Estudando: Estruturas de dados • Arquitetura de computadores • Manipulação de memória
 
 ---
 
 ### 🌱 Sobre mim
-Me chamo Alice Grandel. Desenvolvo aplicações em Java e C++,
+Me chamo Alice Grandel. Desenvolvo aplicações em C++,
 
 Tenho interesse em programação de sistemas, manipulação de memória e aplicações de alto desempenho. Estou sempre criando projetos para aprimorar minhas habilidades e aprender novas tecnologias. 
 
@@ -23,7 +23,6 @@ Tenho interesse em programação de sistemas, manipulação de memória e aplica
   <img src="https://github.com/user-attachments/assets/50ca3edc-9622-49ee-838f-cca91a66c3c8" width="80" alt="Linguagem 1" />
   <!-- Ferramentas -->
 
- <img width="72" height="72" alt="Java" src="https://github.com/user-attachments/assets/6f7f6bca-a017-4bf9-9961-7d406550cc3d" />
 
   
   <img src="https://github.com/user-attachments/assets/cb46981e-173d-4f7a-9925-acb9cec58689" width="70" alt="Ferramenta 1" />
