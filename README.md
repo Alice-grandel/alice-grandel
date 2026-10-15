@@ -1,15 +1,15 @@
 ## Oii, meu nome é Alice e sejam muito bem-vindos(as) ⚡️🖤 <img src="https://img.shields.io/badge/Trans%20Pride-%F0%9F%8C%88-bluepinkwhite?style=flat-square" />
 
-👩🏻‍💻 Linguagens: Rust </br>
+👩🏻‍💻 Linguagens: C++ </br>
 
 🧠 Estudando: Estruturas de dados • Arquitetura de computadores • Manipulação de memória
 
 ---
 
 ### 🌱 Sobre mim
-Me chamo Alice Grandel. Desenvolvo aplicações em Rust,
+Me chamo Alice Grandel. Desenvolvo aplicações em C++,
 
-Tenho interesse em programação de sistemas desktop, manipulação de memória e aplicações de alto desempenho. Estou sempre criando projetos para aprimorar minhas habilidades e aprender novas tecnologias. 
+Tenho interesse em programação desktop, embarcados,  manipulação de memória e aplicações de alto desempenho. Estou sempre criando projetos para aprimorar minhas habilidades e aprender novas tecnologias. 
 
 🏳️‍⚧️ Como mulher trans, quero abrir caminhos e mostrar que a tecnologia tem espaço para todas nós, inspirando outras pessoas a acreditarem no próprio potencial..
 
@@ -20,10 +20,9 @@ Tenho interesse em programação de sistemas desktop, manipulação de memória 
 <p align="left">
 
   <!-- Linguagens -->
+<img width="100" height="100" alt="14d2655596890111b259c69da9e82138" src="https://github.com/user-attachments/assets/6b45dbe0-3c00-4ba5-885e-2653d8e361e6" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="80" alt="Rust Logo"/>
-
-
+    
   <!-- Ferramentas -->
 
 
